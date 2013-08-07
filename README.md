@@ -5,4 +5,4 @@ An enclosure to house x-IMU and battery.  Designed to be 3D printed (SLA) or vac
 
 =========
 
-<img src="https://raw.github.com/xioTechnologies/x-IMU-Housing/master/x-IMU%20Housing.png" alt="IR Theremin" style="width: 600px;"/>
+<img src="https://raw.github.com/xioTechnologies/x-IMU-Housing/master/x-IMU%20Housing.png" style="width: 600px;"/>
